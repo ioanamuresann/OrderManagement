@@ -1,0 +1,6 @@
+------------------FACTURA------------------
+NUMELE CLIENTULUI: ioana
+NUMELE PRODUSULUI: pepene
+ATI CUMPARAT : 0 produse(pepene)
+PRETUL UNEI BUCATI ESTE DE : 100
+TOTAL: 0 lei
