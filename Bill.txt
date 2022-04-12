@@ -1,6 +1,6 @@
 ------------------FACTURA------------------
-NUMELE CLIENTULUI: ioana
-NUMELE PRODUSULUI: pepene
-ATI CUMPARAT : 0 produse(pepene)
+NUMELE CLIENTULUI: maria
+NUMELE PRODUSULUI: ciocolata
+ATI CUMPARAT : 8 produse(ciocolata)
 PRETUL UNEI BUCATI ESTE DE : 100
-TOTAL: 0 lei
+TOTAL: 800 lei
